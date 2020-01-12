@@ -1,0 +1,49 @@
+#content{
+  text-align: center;
+  padding-top: 25%;
+ color: white;
+  background-position: center;
+  font-family: 'Lato', sans-serif;
+ text-shadow: 0px 4px 3px red,
+              0px 8px 13px orange,
+              0px 18px 23px yellow;
+
+
+}
+
+
+html{
+ 
+ height: 100%;
+
+
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: rgba(0,0,0,0.2);
+}
+
+
+body{
+	background: url(https://www.telegraph.co.uk/content/dam/polo/2016/05/03/7bd4eb2e83c65a6ea5def9bb9ba6f166_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwZwVSIA7rSIkPn18jgFKEo0.jpg?imwidth=450);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+
+}
+
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: green;
+}
+
